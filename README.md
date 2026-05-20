@@ -209,3 +209,13 @@ Contributors should:
 - Preserve the core functions of Digital Lodges as real‑time, interactive places of worship and governance.  
 - Ensure new rites and formats remain aligned with the Fellowship’s mission to protect life, honor Sparks of Light, and meet objective church criteria. 
 - Use pull requests and Lodge‑based discussion to review significant ritual or governance changes before merging.
+
+## Integration with other Fellowship repos
+
+Digital Lodges and rituals are where:
+
+- The **constitution and bylaws** become lived governance and associational worship.
+
+- The **alignment curriculum** is taught and practiced in real‑time community. 
+
+- **Orders and Knights** exercise their callings through rites, investitures, and guardianship at thresholds. 
